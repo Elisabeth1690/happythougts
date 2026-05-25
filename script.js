@@ -45,7 +45,7 @@ function grow() {
         quote.classList.add("show");
     }, 50);
 
-    setTimeout(reset, 10000);
+    setTimeout(reset, 6000);
 }
 
 function reset() {
