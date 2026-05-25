@@ -70,7 +70,7 @@ body {
     width: min(88vw, 360px);
     transform: translateX(-50%) translateY(20px);
     opacity: 0;
-    font-size: clamp(20px, 7vw, 30px);
+    font-size: clamp(30px, 13vw, 40px);
     line-height: 1.25;
     transition: all 1s ease;
     white-space: normal;
