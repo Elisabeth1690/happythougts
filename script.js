@@ -6,7 +6,7 @@ const flowers = [
 ];
 
 
-console.log("flowers:", flowers);
+console.log("Denne siden er dedikert til mine 4 flotte barn. Jeg håper at alle som er innom siden vet hvor verdifull de er!");
 
 const quotes = [
      "Positivitet er en kraftig magnet",
