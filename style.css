@@ -81,23 +81,3 @@ body {
     transform: translateX(-50%) translateY(0px);
 }
 
-@media (max-width: 480px) {
-    body {
-        padding: 18px;
-        align-items: center;
-    }
-
-    .flower {
-        width: min(310px, 86vw);
-    }
-
-    .flower img {
-        max-height: 64svh;
-    }
-
-    .quote {
-        bottom: 104%;
-        width: min(92vw, 390px);
-        font-size: clamp(26px, 30px, 34px);
-    }
-}
