@@ -6,7 +6,7 @@ const flowers = [
 ];
 
 
-console.log("Denne siden er dedikert til mine 4 flotte barn. Jeg håper at alle som er innom siden vet hvor verdifull de er!");
+console.log("Denne siden er dedikert til mine 4 flotte barn. Jeg håper at alle som er innom siden vet hvor verdifull de selv er!");
 
 const quotes = [
      "Positivitet er en kraftig magnet",
@@ -35,7 +35,7 @@ function grow() {
     const quote = document.getElementById("quote");
 
     seed.style.display = "none";
-    flower.style.display = "block";
+    flower.style.display = "flex";
 
     flowerImg.src = randomItem(flowers);
     quote.textContent = randomItem(quotes);
