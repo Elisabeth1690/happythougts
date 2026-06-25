@@ -21,7 +21,6 @@ const quotes = [
     "Du er råkul",
     "Et sted skinner solen like mye som smilet ditt",
     "Det er innsiden som teller",
-    "Salat dagen derpå er godt for sjel og sinn",
     
 ];
 
